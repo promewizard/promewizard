@@ -1,4 +1,4 @@
-![](../promewizardReadMe/profile-3d-contrib/profile-green-animate.svg)
+![](https://raw.githubusercontent.com/promewizard/promewizardReadME/profile-3d-contrib/profile-green-animate.svg)
 
 # 💫 About Me:
 
